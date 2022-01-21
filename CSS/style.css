@@ -1,0 +1,29 @@
+/* poopins font adding link  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.carousel-section{
+    background-color: #FEEAE9;
+    border-radius: 15px;
+}
+.cetagories{
+    color: white;
+    border-radius: 15px;
+    padding: 10px 0px;
+}
+#c-watch{
+    background-color: orange;
+} 
+#c-bag{
+    background-color: rgb(212, 127, 141);
+}
+#c-shoes{
+    background-color: lightseagreen;
+}
+.shoes{
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px rrgb(255, 251, 251)
+}
